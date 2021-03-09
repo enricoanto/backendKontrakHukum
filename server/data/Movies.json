@@ -1,0 +1,74 @@
+
+    [
+        {
+            "title": "Avengers: Endgame",
+            "rating": 8.4,
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "release_year": 2019,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@.jpg"
+        },
+        {
+            "title": "Black Panther",
+            "rating": 7.3,
+            "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+            "release_year": 2018,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+        },
+        {
+            "title": "Thor: Ragnarok",
+            "rating": 7.9,
+            "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+            "release_year": 2017,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Iron Man",
+            "rating": 7.9,
+            "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+            "release_year": 2008,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Spideman: Homecoming",
+            "rating": 7.4,
+            "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+            "release_year": 2017,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "The Avengers",
+            "rating": 8.0,
+            "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "release_year": 2012,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Captain America: Civil War",
+            "rating": 7.8,
+            "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+            "release_year": 2016,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Guardians Of Galaxy",
+            "rating": 8.0,
+            "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+            "release_year": 2014,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Spiderman: Far From Home",
+            "rating": 7.5,
+            "description": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "release_year": 2019,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        },
+        {
+            "title": "Captain America: the Winter Soldier",
+            "rating": 7.7,
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+            "release_year": 2014,
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+        }
+        
+    ]
